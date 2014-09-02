@@ -1,6 +1,6 @@
-We need you!
+We want you!
 ============
 
-Pour transmettre votre candidature, envoyez-nous une PR sur l'issue qui correspond.
+Pour transmettre votre candidature, envoyez-nous une PR sur l'issue qui correspond (ou envoyez-nous un mail).
 
 Merci !

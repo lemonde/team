@@ -1,6 +1,6 @@
 We want you!
 ============
 
-Pour transmettre votre candidature, envoyez-nous une PR sur l'issue qui correspond (ou envoyez-nous un mail).
+Pour transmettre votre candidature, une PR n'est pas nécessaire : un mail avec votre CV au format PDF suffira ;-).
 
 Merci !
